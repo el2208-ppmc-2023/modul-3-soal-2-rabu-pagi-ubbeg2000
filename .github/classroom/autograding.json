@@ -15,7 +15,7 @@
       "setup": "",
       "run": "./main",
       "input": "2\r\n3\r\n5\r\n7\r\n2\r\n4\r\n6\r\n8\r\n1\r\n3\r\n5\r\n7\r\n4\r\n8\r\n12\r\n16\r\n90",
-      "output": "Matrix:\r\n2 3 5 7\r\n2 4 6 8\r\n1 3 5 7\r\n4 8 12 16",
+      "output": "Matrix:\r\n2 3 5 7 \r\n2 4 6 8 \r\n1 3 5 7 \r\n4 8 12 16 ",
       "comparison": "included",
       "timeout": 1,
       "points": 20
@@ -25,7 +25,7 @@
       "setup": "",
       "run": "./main",
       "input": "2\r\n3\r\n5\r\n7\r\n2\r\n4\r\n6\r\n8\r\n1\r\n3\r\n5\r\n7\r\n4\r\n8\r\n12\r\n16\r\n90",
-      "output": "Matrix:\r\n4 1 2 2\r\n8 3 4 3\r\n12 5 6 5\r\n16 7 8 7",
+      "output": "Matrix:\r\n4 1 2 2 \r\n8 3 4 3 \r\n12 5 6 5 \r\n16 7 8 7 ",
       "comparison": "included",
       "timeout": 1,
       "points": 20
@@ -45,7 +45,7 @@
       "setup": "",
       "run": "./main",
       "input": "2\r\n3\r\n5\r\n7\r\n2\r\n4\r\n6\r\n8\r\n1\r\n3\r\n5\r\n7\r\n4\r\n8\r\n12\r\n16\r\n270",
-      "output": "Matrix:\r\n7 8 7 16\r\n5 6 5 12\r\n3 4 3 8 \r\n2 2 1 4",
+      "output": "Matrix:\r\n7 8 7 16 \r\n5 6 5 12 \r\n3 4 3 8 \r\n2 2 1 4 ",
       "comparison": "included",
       "timeout": 10,
       "points": 20
