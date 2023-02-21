@@ -35,7 +35,7 @@
       "setup": "",
       "run": "./main",
       "input": "2\r\n3\r\n5\r\n7\r\n2\r\n4\r\n6\r\n8\r\n1\r\n3\r\n5\r\n7\r\n4\r\n8\r\n12\r\n16\r\n180",
-      "output": "Matrix:\r\n16 12 8 4\r\n7 5 3 1\r\n8 6 4 2\r\n7 5 3 2",
+      "output": "Matrix:\r\n16 12 8 4 \r\n7 5 3 1 \r\n8 6 4 2 \r\n7 5 3 2 ",
       "comparison": "included",
       "timeout": 10,
       "points": 20
